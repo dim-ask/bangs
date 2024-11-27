@@ -21975,7 +21975,7 @@
   },
   {
     "s": "Google.de Maps",
-    "d": "www.google.de",
+    "d": "www.google.de/maps/dir/",
     "t": "dir",
     "u": "https://www.google.de/maps/dir/{{{s}}}",
     "c": "Online Services",
